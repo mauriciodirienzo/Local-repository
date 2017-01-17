@@ -6,3 +6,6 @@ otro cambio local
 esto es mi primer archivosssdsd no se que pasa 
 desde gity
 >>>>>>> origin/master
+
+
+recibi esto
